@@ -4,11 +4,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1MgUg72m42fX4QF5Ks8i-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=9;" vertex="1" parent="1">
-          <mxGeometry x="404" y="10" width="20" height="20" as="geometry" />
+        <mxCell id="1MgUg72m42fX4QF5Ks8i-2" value="&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: start;&quot;&gt;&lt;code style=&quot;margin: 0px 8px; padding: 2px 4px; border: none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; word-break: break-word; border-radius: 4px; color: var(--yb-md-inline-code-color);&quot;&gt;CUを選択済み？&lt;/code&gt;&lt;/pre&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#CC0000;strokeWidth=2;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="342" y="80" width="144" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1MgUg72m42fX4QF5Ks8i-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#CC0000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="366" y="70" width="96" height="40" as="geometry" />
+        <mxCell id="1MgUg72m42fX4QF5Ks8i-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="1" source="1MgUg72m42fX4QF5Ks8i-1" target="1MgUg72m42fX4QF5Ks8i-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="30" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MgUg72m42fX4QF5Ks8i-4" value="" style="endArrow=classic;html=1;rounded=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=3;" edge="1" parent="1" target="1MgUg72m42fX4QF5Ks8i-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="30" as="sourcePoint" />
+            <mxPoint x="414" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MgUg72m42fX4QF5Ks8i-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=9;" vertex="1" parent="1">
+          <mxGeometry x="404" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1MgUg72m42fX4QF5Ks8i-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0000;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1MgUg72m42fX4QF5Ks8i-2" target="1MgUg72m42fX4QF5Ks8i-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="40" as="sourcePoint" />
+            <mxPoint x="260" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1MgUg72m42fX4QF5Ks8i-7" value="&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgba(0, 0, 0, 0.9); text-align: start;&quot;&gt;&lt;code style=&quot;margin: 0px 8px; padding: 2px 4px; border: none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; word-break: break-word; border-radius: 4px; color: var(--yb-md-inline-code-color);&quot;&gt;MPCS Managerに当該CUの&lt;br&gt;   カード情報をリクエスト&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;strokeWidth=2;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
